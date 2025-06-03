@@ -7,7 +7,7 @@ Evaluar habilidades en maquetación semántica, CSS moderno (Flexbox/Grid), dise
 Principalmente los siguientes aspectos:
   + Estructura HTML (Semántica y Accesible).
   + Maquetación fluida y adaptable con CSS Grid o Flexbox.
-  + Alineación y distribución coherente de elementos.
+  + Alineación y distribución coherente de elementos de acuerdo al mockup.
 
 #### Requerimientos.
 
