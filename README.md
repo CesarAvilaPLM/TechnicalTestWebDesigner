@@ -15,7 +15,7 @@ Principalmente los siguientes aspectos:
 
   https://xd.adobe.com/view/883a089e-fa7f-46b6-b09a-2230ffe9491c-dd69/screen/b2a67737-3976-49fb-828c-41e8390888d2
 
-    -  El maquetado se debe de adaptar a diferentes resoluciones: Móvil (≤ 768px), Tablet (769px - 1024px) y Escritorio (≥ 1025px).   
+    -  El maquetado se debe de adaptar a diferentes resoluciones móviles(teléfonos y tabletas).  
 
     Las imágenes y fuentes se encuentran disponibles en las carpetas images y fonts de este repositorio
 
