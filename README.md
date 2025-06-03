@@ -13,9 +13,9 @@ Principalmente los siguientes aspectos:
 
 1. Maquetar con HTML, CSS, JS el Mockup de la siguiente aplicación:
 
-    https://xd.adobe.com/view/883a089e-fa7f-46b6-b09a-2230ffe9491c-dd69/screen/b2a67737-3976-49fb-828c-41e8390888d2
+  -  https://xd.adobe.com/view/883a089e-fa7f-46b6-b09a-2230ffe9491c-dd69/screen/b2a67737-3976-49fb-828c-41e8390888d2
 
-El maquetado se debe de adaptar a diferentes resoluciones: Móvil (≤ 768px), Tablet (769px - 1024px) y Escritorio (≥ 1025px).   
+  -  El maquetado se debe de adaptar a diferentes resoluciones: Móvil (≤ 768px), Tablet (769px - 1024px) y Escritorio (≥ 1025px).   
 
 3. **CSS:** Utilizar algún framework CSS (a elección, de preferencia bootstrap 5) para los archivos CSS, tomando en cuenta la compatibilidad con distintos navegadores.
 
