@@ -17,7 +17,7 @@ Principalmente los siguientes aspectos:
 
     -  El maquetado se debe de adaptar a diferentes resoluciones: Móvil (≤ 768px), Tablet (769px - 1024px) y Escritorio (≥ 1025px).   
 
-    **Las imágenes y fuentes se encuentran disponibles en las carpetas images y fonts de este repositorio**
+    Las imágenes y fuentes se encuentran disponibles en las carpetas images y fonts de este repositorio
 
 3. **CSS:** Utilizar algún framework CSS (a elección, de preferencia bootstrap 5) para los archivos CSS, tomando en cuenta la compatibilidad con distintos navegadores.
 
