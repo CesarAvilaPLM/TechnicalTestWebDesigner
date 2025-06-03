@@ -22,5 +22,5 @@ Principalmente los siguientes aspectos:
 
 #### Entrega
 
-  - Subir el proyecto a un repositorio de  GitHub (público) a y compartirlo por correo electrónico.
+  - Subir el proyecto a un repositorio de  GitHub (público) y compartirlo por correo electrónico.
     
